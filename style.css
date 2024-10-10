@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(243, 243, 243);
+    height: 100vh;
+    border: 1px solid red;
+}
+
+header {
+    
+}
